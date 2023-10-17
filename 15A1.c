@@ -7,7 +7,7 @@ void main()
 	printf("Enter string 2:");
 	gets(b);
 	int i=0;
-	for(i=0;i<=1;i++)
+	for(i=0;b[i]!='\0';i++)
 	{
 		a[i]=b[i];
 	}
