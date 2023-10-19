@@ -1,5 +1,4 @@
 //Print given number in reverse order.
-// Print digits of given number.
 #include<stdio.h>
 void main(){
 	int r,n,s=0;
