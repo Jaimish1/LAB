@@ -1,3 +1,4 @@
+//Calculate 𝑥^𝑦 without using power function
 #include<stdio.h>
 void main(){
 	int i,x,y,v;
