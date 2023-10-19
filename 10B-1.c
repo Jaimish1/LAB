@@ -1,4 +1,4 @@
-// Print digits of given number.
+// Check whether the given number is perfect or not.
 #include<stdio.h>
 void main(){
 	int i=1,n,s=0;
